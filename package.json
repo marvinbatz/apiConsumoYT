@@ -1,0 +1,23 @@
+{
+  "name": "apiconsumoyt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marvinbatz/apiConsumoYT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marvinbatz/apiConsumoYT/issues"
+  },
+  "homepage": "https://github.com/marvinbatz/apiConsumoYT#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
